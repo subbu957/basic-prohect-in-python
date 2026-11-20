@@ -1,0 +1,20 @@
+{
+  "customer": "Subbu Tech Innovations",
+  "items": [
+    {
+      "name": "Mechanical Keyboard Pro",
+      "qty": 1,
+      "price": 120.0
+    },
+    {
+      "name": "Ultra-Wide 4K Monitor",
+      "qty": 1,
+      "price": 450.0
+    },
+    {
+      "name": "USB-C Hub Multiport",
+      "qty": 2,
+      "price": 35.5
+    }
+  ]
+}

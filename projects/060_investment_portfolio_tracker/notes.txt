@@ -1,0 +1,2 @@
+Python utility script for Investment Portfolio Tracker.
+Fast search index and python reference.

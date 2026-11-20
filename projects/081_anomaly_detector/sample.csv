@@ -1,0 +1,5 @@
+item_id,label,rating,units_sold,revenue
+101,Standard,4.5,120,2400.00
+102,Premium,4.8,85,3400.00
+103,Economy,3.9,210,2100.00
+104,Standard,4.2,140,2800.00

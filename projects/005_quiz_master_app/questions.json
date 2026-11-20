@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the keyword used to define a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": [
+      "List",
+      "Dictionary",
+      "Tuple",
+      "Set"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does pip stand for in Python ecosystem?",
+    "options": [
+      "Pip Installs Packages",
+      "Python Package",
+      "Preferred Installer Program",
+      "Package Interface Point"
+    ],
+    "answer": 1
+  }
+]

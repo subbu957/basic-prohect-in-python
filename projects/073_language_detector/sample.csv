@@ -1,0 +1,5 @@
+id,name,category,status,score
+1,Alpha,Language Detector,Active,95
+2,Beta,Language Detector,Pending,82
+3,Gamma,Language Detector,,76
+1,Alpha,Language Detector,Active,95

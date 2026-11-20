@@ -1,0 +1,2 @@
+Python utility script for Personal Knowledge Base.
+Fast search index and python reference.

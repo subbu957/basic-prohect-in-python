@@ -1,0 +1,5 @@
+id,name,category,status,score
+1,Alpha,Object Detection Demo,Active,95
+2,Beta,Object Detection Demo,Pending,82
+3,Gamma,Object Detection Demo,,76
+1,Alpha,Object Detection Demo,Active,95

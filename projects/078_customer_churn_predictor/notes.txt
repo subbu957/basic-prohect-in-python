@@ -1,0 +1,2 @@
+Python utility script for Customer Churn Predictor.
+Fast search index and python reference.

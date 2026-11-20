@@ -1,0 +1,2 @@
+Python utility script for OCR Document Pipeline.
+Fast search index and python reference.
